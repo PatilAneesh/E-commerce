@@ -1,0 +1,13 @@
+ 
+.checkbox {
+   font-family: sans-serif;
+   font-weight: bold;
+   color: #111;
+   display: inline-block;
+   margin: 6px 8px;
+  }
+ 
+  .sizeselector{
+     margin-top: 40px;
+     width: 20%; 
+  }
